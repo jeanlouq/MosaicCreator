@@ -4,6 +4,8 @@
 ## About
 A simple algorithm to create a mosaic of images representing a main image.
 
+![Alt text](out.png?raw=true "Title")
+
 ## Requirements
 I used basic operations of **OpenCV** and **Numpy**.
 
